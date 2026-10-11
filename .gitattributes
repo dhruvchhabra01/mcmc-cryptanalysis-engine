@@ -1,0 +1,3 @@
+# Treat pickle binary artifacts as generated data, not code
+*.pkl linguist-vendored=true
+*.pkl linguist-generated=true
